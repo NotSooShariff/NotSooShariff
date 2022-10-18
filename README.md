@@ -4,13 +4,13 @@
 
 - 🔭 I’m currently working on 🔭 **MERN Stack Projects**
 
-- 🌱 I’m currently learning **Artificial Intelligence and Machine Learning**
+- 🌱 I’m currently learning 🌱 **Artificial Intelligence and Machine Learning**
 
 - 💬 Ask me about 💬 **Front-End and UI/UX**
 
 - 📫 How to reach me 📫 **osh.econnect@gmail.com**
 
-- 📄 Know about my experiences [bit.ly/owais-shariff](bit.ly/owais-shariff)
+- 📄 Know about my experiences📄 [bit.ly/owais-shariff](bit.ly/owais-shariff)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
