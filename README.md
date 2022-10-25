@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://imgur.com/a/AyBa8sU" align="center" style="width: 100%" />
+<img src="https://github.com/NotSooShariff/Dice-Game/blob/main/images/cropped%20gif.gif?raw=true" align="center" style="width: 100%" />
 </div>  
   
 
