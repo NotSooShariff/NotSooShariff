@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on a [NodeJS Zoom Clone](https://github.com/NotSooShariff/Zoom-Clone)  
   
 
-- 🌱 I’m currently learning Pe  
+- 🌱 I’m currently learning ReactJS
   
 
 - ❓ Ask me about anything related to MERN stack and related technologies  
