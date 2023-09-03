@@ -3,16 +3,16 @@
 </div>  
   
 
-### <div align="center">👨‍💻 I'm Owais, a full-stack freelance developer 👨‍💻 <br>  🚀 Design. Develop. Execute. 🚀</div>  
+### <div align="center">👨‍💻 I'm Owais, a cybersecurity intern & full-stack developer 👨‍💻 <br>  🚀 Design. Develop. Execute. 🚀</div>  
   
 
-- 🔭 I’m currently working on a [NodeJS Zoom Clone](https://github.com/NotSooShariff/Zoom-Clone)  
+- 🔭 I’m currently working on a [Credit Card Fraud Detection API](https://github.com/NotSooShariff/CC-Fraud-Detection)  
   
 
-- 🌱 I’m currently learning ReactJS
+- 🌱 I’m currently learning VAPT
   
 
-- ❓ Ask me about anything related to MERN stack and related technologies  
+- ❓ Ask me about anything related to Bug Bounty & Web Penetration Testing  
   
 
 - ⚡ Fun fact: I use tabs over spaces  
