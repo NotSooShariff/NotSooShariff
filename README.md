@@ -74,9 +74,13 @@
 <div align="center">  
 <a href="https://www.tenable.com/products/nessus" target="_blank"><img style="margin: 10px" src="https://companieslogo.com/img/orig/TENB-ccc3ae65.png?t=1683871187" alt="Nessus" height="50" /></a>  
 <a href="https://www.splunk.com/" target="_blank"><img style="margin: 10px" src="https://logos-download.com/wp-content/uploads/2021/01/Splunk_Logo.png" alt="Splunk" height="50" /></a>  
+<a href="https://nmap.org" target="_blank"><img style="margin: 10px" src="https://nmap.org/images/nmap-logo-256x256.png" alt="NMap" height="50" /></a>  
+<a href="https://www.metasploit.com/" target="_blank"><img style="margin: 10px" src="https://www.kali.org/tools/metasploit-framework/images/metasploit-framework-logo.svg" alt="Metasploit" height="50" /></a>
+<a href="###########" target="_blank"><img style="margin: 10px" src="#########" alt="###########" height="50" /></a>
+<a href="###########" target="_blank"><img style="margin: 10px" src="#########" alt="###########" height="50" /></a>
+<a href="###########" target="_blank"><img style="margin: 10px" src="#########" alt="###########" height="50" /></a>
+  
 
-
-  https://companieslogo.com/img/orig/TENB-ccc3ae65.png?t=1683871187
 </div>
 
 </td></tr></table>  
