@@ -72,13 +72,13 @@
 
 ### Security  
 <div align="center">  
-<a href="https://www.tenable.com/products/nessus" target="_blank"><img style="margin: 10px" src="https://companieslogo.com/img/orig/TENB-ccc3ae65.png?t=1683871187" alt="Nessus" height="50" /></a>  
 <a href="https://www.splunk.com/" target="_blank"><img style="margin: 10px" src="https://logos-download.com/wp-content/uploads/2021/01/Splunk_Logo.png" alt="Splunk" height="50" /></a>  
+<a href="https://www.tenable.com/products/nessus" target="_blank"><img style="margin: 10px" src="https://companieslogo.com/img/orig/TENB-ccc3ae65.png?t=1683871187" alt="Nessus" height="50" /></a>  
 <a href="https://nmap.org" target="_blank"><img style="margin: 10px" src="https://nmap.org/images/nmap-logo-256x256.png" alt="NMap" height="50" /></a>  
 <a href="https://www.metasploit.com/" target="_blank"><img style="margin: 10px" src="https://www.kali.org/tools/metasploit-framework/images/metasploit-framework-logo.svg" alt="Metasploit" height="50" /></a>
-<a href="###########" target="_blank"><img style="margin: 10px" src="#########" alt="###########" height="50" /></a>
-<a href="###########" target="_blank"><img style="margin: 10px" src="#########" alt="###########" height="50" /></a>
-<a href="###########" target="_blank"><img style="margin: 10px" src="#########" alt="###########" height="50" /></a>
+<a href="https://wireshark.org" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/c/c6/Wireshark_icon_new.png" alt="Wireshark" height="50" /></a>
+<a href="https://portswigger.net/burp" target="_blank"><img style="margin: 10px" src="https://image.spreadshirtmedia.com/image-server/v1/compositions/T1040A14PA2252PT32X45Y15D1048988355W3400H3400CxF36916%3AxFFFFFF/views/1,width=650,height=650,appearanceId=14,backgroundColor=ffffff/burp-suite-icon.jpg" alt="BurpSuite" height="50" /></a>
+
   
 
 </div>
