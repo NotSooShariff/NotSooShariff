@@ -70,9 +70,9 @@
 
 
 
-### DevOps  
+### Security  
 <div align="center">  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
+<a href="https://www.splunk.com/" target="_blank"><img style="margin: 10px" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAOEAAADhCAMAAAAJbSJIAAAAh1BMVEVkpjf19fX29vbx8vJnqDr49/ne6NhipTRdoyva5dVfpC/39vn49/pdoyn19PX7+Pyyz6Hk7N+gxYmbwoNYoSB/tF2Vv3zv8u7T4cy/1rHq7+emyJHP4MXy9PF0rk/n7uOPvHOry5fG2rt6sVe81a1tq0KMum5LnACrzJexzqB9s1uEtmVUnxcWgnP/AAAEpElEQVR4nO2c7ZaiOBRF+YpBIKAWFooKSKFddvX7P98kIK2lEH7M1Lhu1tlPwF4355KEEMsCAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAjCfirn+CH8SrPf/Uz/CzeMl+lvsl19GYsyXeBMNdRGjqM5TvP2DoqQ8dhyXJ1MjSPnWHnKIJXP81P0Bsqx3IlDByrN0OnzSM3zvHe0LYZK1em9ZzvhspxtrKM6jmPhtIxWb6lBjk+GyrHchcYM1aHDLs8WoY4Dhu2eXwzY04+Zigdo9mbCXOAccOu5wjyddQZqrG6XAXE18h6w9aReB6nDO04lD2HE84jrxOmNZSEyaxK6TqKYs8ipjWUhVQ9h6wj99f1oXUcN5R1DJdyrFLtOVwoR72hdGTzN49uHdP11olivaIds/k74bGaFo0TTZRR5nFG2VGcmjyZdGRqLkc2j36xyKfrGM/eLcJ1LBYZm67j/J3uHIAL75IlbDKP8zPdOQAX6bGccHRd2j3H8r3VUttzXInKY0DWkUvH0hmvo+t2jhvKPcfnqyUbc3SvxGxTUR6r6fssYYMTHfcvcbKhvO4I/GrDhhzdO2jP5WTKqo397Oh+I7bnFd33oxUI5ag1bHtORbevSsfz/iGPj4bSMZx/Uc5j+rF3wlhnqHrOnHJf5YFcJN8chwzVWJ1XPmFHsa6z3nHYsMsj4Z4jHbdx5zhm2DqeKY9VcdrakdawnQOcqa6QretGQKQ1dN1w7r36Of8N7UYAi7VVpG3YbQTkocaRvGG7EXA8JKOOBhj2GwEjjkYYWt1GwPBYNcWw3QhYxgOOxhheNwKeFQ0yVB8DftVPigYZqhqWBtdQ5nBndA4Ds3sp99Pd0uD3oczfLjN4TiPXF8c81K0RaRty//RZGry2kP3zWE6tDwkbchFcsmRije/GYUN0jS/zt8hC7U6UJHTrguY5uHbdy7S7icovq9c0zxZ3hxi0O8JqfLr1muY/YlzwRr7/9HvebhjW65SoX9Ekt/qNfbewtwVRv/Rjm4UP39ee/FhWf5DN3/baPzXfD8NsS7W/COkXPfk9fAMO7fo31f5yqkfOKtz7xXTzt65HD2T2frYcnyeq43NdZ+MHTm/5I9tfftcH3YHazu+w/SCav7Somf7AsHo/hFTzF6Rfj+cSBgjdxiPqJ877p7MlT0R5U9DMXxB87Q9T9ZP9pSGav0B87Z1pv8O2IOqXfm2m8xfZzYmon1Bn9CbzlzVE/2UPgmrjTB5gV/2FaP34WdZv4r8nuT4i6/fnvEkm/12jmz+Lq3PAE/8fxlG24ET91D+kkf4fUttO8gXV+imm/pJ1ZP2I5u+K3tCJDmTz16MzVPXziPvpDJ0oX5hwH8+YofS70M5fz7Chw7IL9fz1DBk6ycGA/PUM3TGUH4Uxfs+GTlIeT+LVT/Vf8t3QYfnRlPz13BvK99+F6P6uhjtDmT+68+txbvcmlkdz7ve6p7/7svw0q7/cuN5f+mlaf7mh7qDNjibMP8do7xE2tn4KrzL17tm/kL2nBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA/n/+AQkuT+GNkZLlAAAAAElFTkSuQmCC" alt="Splunk" height="50" /></a>  
 </div>
 
 </td></tr></table>  
