@@ -90,6 +90,9 @@
 
 ## Connect with me  
 <div align="center">
+<a href="https://osh.fyi" target="_blank">
+<img src=https://img.shields.io/badge/-Website-%231679A7?style=for-the-badge&logo=googlechrome&logoColor=white alt=website style="margin-bottom: 5px;" />
+</a>
 <a href="https://github.com/NotSooShariff" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
