@@ -126,12 +126,11 @@
 
 ## Vibe with Me  
 
-<table><tr><td valign="top" width="75%">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31tfvl7q4kjglroytauz46f35ngy&unique={true|1|on|yes}" />  
-  </td><td  valign="top" width="25%">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31tfvl7q4kjglroytauz46f35ngy&cover_image=true&theme=default&show_offline=false" />
-</tr>
-  
+<div style="display: flex; align-items: stretch;">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31tfvl7q4kjglroytauz46f35ngy&unique={true|1|on|yes}" style="flex: 1;">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31tfvl7q4kjglroytauz46f35ngy&cover_image=true&theme=default&show_offline=false" style="flex: 1;">
+</div>
+
 
 
 
