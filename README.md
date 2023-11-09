@@ -126,9 +126,9 @@
 
 ## Vibe with Me  
 
-<div style="display: flex;">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31tfvl7q4kjglroytauz46f35ngy&unique={true|1|on|yes}" style="height: 200px; object-fit: cover;">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31tfvl7q4kjglroytauz46f35ngy&cover_image=true&theme=default&show_offline=false" style="height: 200px; object-fit: cover;">
+<div style="display: flex; align="center"">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31tfvl7q4kjglroytauz46f35ngy&cover_image=true&theme=default&show_offline=false" style="height: 300px; object-fit: cover;">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31tfvl7q4kjglroytauz46f35ngy&unique={true|1|on|yes}" style="height: 300px; object-fit: cover;">
 </div>
 
 
