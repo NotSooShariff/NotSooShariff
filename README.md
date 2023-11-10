@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">👨‍💻 I'm Owais, a cybersecurity intern & full-stack developer 👨‍💻 <br>  🚀 Design. Develop. Execute. 🚀</div>  
+### <div align="center"> I'm Owais, a cybersecurity intern & full-stack developer <br> 👨‍💻  Hack. Build. Secure. 👨‍💻 </div>  
   
 
 - 🔭 I’m currently working on a [Credit Card Fraud Detection API](https://github.com/NotSooShariff/CC-Fraud-Detection)  
