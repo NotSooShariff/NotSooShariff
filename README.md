@@ -21,7 +21,7 @@
 <br/>  
 
 
-## My Skill Set  
+## <div align="center"> My Skill Set </div> 
 <table><tr><td valign="top" width="33%">
 
 
@@ -88,7 +88,7 @@
 <br/>  
 
 
-## Connect with me  
+## <div align="center"> Connect with me </div>  
 <div align="center">
 <a href="https://osh.fyi" target="_blank">
 <img src=https://img.shields.io/badge/-Website-%231679A7?style=for-the-badge&logo=googlechrome&logoColor=white alt=website style="margin-bottom: 5px;" />
@@ -114,7 +114,7 @@
 <br/>  
 
 
-## Github Stats  
+## <div align="center"> Github Stats </div>  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=NotSooShariff&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
@@ -124,7 +124,7 @@
 <br/>  
 
 
-## Vibe with Me  
+## <div align="center"> Vibe with Me </div>  
 
 <div align="center" style="display: flex;">
   <img src="https://spotify-github-profile.vercel.app/api/view?uid=31tfvl7q4kjglroytauz46f35ngy&cover_image=true&theme=default&show_offline=false" style="height: 300px; object-fit: cover;">
