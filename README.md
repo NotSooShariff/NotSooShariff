@@ -5,8 +5,32 @@
 
 ### <h2 align="center"> I'm Owais, a Security Researcher & Developer <br> 👨‍💻  Hack. Build. Secure. 👨‍💻 </h2>  
   
+<h3 align="center"> Connect with me </h3>  
+<div align="center">
+<a href="https://osh.fyi" target="_blank">
+<img src=https://img.shields.io/badge/-Website-%231679A7?style=for-the-badge&logo=googlechrome&logoColor=white alt=website style="margin-bottom: 5px;" />
+</a>
+<a href="https://github.com/NotSooShariff" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://tryhackme.com/p/NotSooShariff" target="_blank">
+<img src=https://img.shields.io/badge/-TryHackMe-%23212C42?style=for-the-badge&logo=tryhackme&logoColor=white alt=tryhackme style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/owais-shariff" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://instagram.com/ridiculosh" target="_blank">
+<img src=https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white />
+</a>
+<a href="https://medium.com/@notsooshariff" target="_blank">
+<img src=https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white />
+</a>
+</div>  
+  
 
-- 🔭 I’m currently working on a [Credit Card Fraud Detection API](https://github.com/NotSooShariff/CC-Fraud-Detection)  
+<br/>  
+
+<!-- - 🔭 I’m currently working on a [Credit Card Fraud Detection API](https://github.com/NotSooShariff/CC-Fraud-Detection)  
   
 
 - 🌱 I’m currently learning VAPT
@@ -15,7 +39,7 @@
 - ❓ Ask me about anything related to Bug Bounty & Web Penetration Testing  
   
 
-- ⚡ Fun fact: I use tabs over spaces  
+- ⚡ Fun fact: I use tabs over spaces  -->
   
 
 <br/>  
@@ -84,32 +108,6 @@
 </div>
 
 </td></tr></table>  
-
-<br/>  
-
-
-<h3 align="center"> Connect with me </h3>  
-<div align="center">
-<a href="https://osh.fyi" target="_blank">
-<img src=https://img.shields.io/badge/-Website-%231679A7?style=for-the-badge&logo=googlechrome&logoColor=white alt=website style="margin-bottom: 5px;" />
-</a>
-<a href="https://github.com/NotSooShariff" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://tryhackme.com/p/NotSooShariff" target="_blank">
-<img src=https://img.shields.io/badge/-TryHackMe-%23212C42?style=for-the-badge&logo=tryhackme&logoColor=white alt=tryhackme style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/owais-shariff" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/ridiculosh" target="_blank">
-<img src=https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white />
-</a>
-<a href="https://medium.com/@notsooshariff" target="_blank">
-<img src=https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white />
-</a>
-</div>  
-  
 
 <br/>  
 
