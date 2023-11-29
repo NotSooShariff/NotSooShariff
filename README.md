@@ -83,7 +83,7 @@
 </div>
 
 </td></tr></table>  
-<div align="center"> ...Or at least all the logos I could find xD </div>
+<div align="center"> ...Or at least all the logos I could find 🙃 </div>
 <br/>  
 
 <h3 align="center"> Connect with me </h3>  
