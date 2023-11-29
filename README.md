@@ -107,17 +107,7 @@
 <img src=https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white />
 </a>
 </div>  
-  
 
-<br/>  
-
-
-<h3 align="center"> Github Stats </h3>  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=NotSooShariff&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
-
-  
 
 <br/>  
 
@@ -130,10 +120,13 @@
 </div>
 
 
+<br/>  
 
 
+<h3 align="center"> Github Stats </h3>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=NotSooShariff&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
-
+<br/>  
 
 <br/>  
 
