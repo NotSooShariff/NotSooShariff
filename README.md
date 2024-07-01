@@ -109,7 +109,7 @@
 </div>  
 
 
-<br/>  
+<!-- <br/>  
 
 
 <h3 align="center"> Vibe with Me </h3>  
@@ -128,7 +128,7 @@
 
 <br/>  
 
-<br/>  
+<br/>  -->
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=NotSooShariff&&style=flat-square" align="center" />
