@@ -2,7 +2,7 @@
   <br>
   <br>
   <br>
-  <samp>Hello there. I'm <a href="https://selimdoyranli.com">Selim</a>.<br> I'm a Security Researcher from Bangalore.<br><br>Visit osh.fyi for more</samp>
+  <samp>Hello there. I'm <a href="https://osh.fyi">Owais</a>.<br> I'm a Security Researcher from Bangalore.<br><br>Visit osh.fyi for more</samp>
   <br>
   <br>
   <br>
