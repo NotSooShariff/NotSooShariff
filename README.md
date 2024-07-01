@@ -3,12 +3,12 @@
   <br>
   <br>
   <samp>Hello there. I'm <a href="https://osh.fyi">Owais</a>.<br> I'm a Security Researcher from Bangalore.<br>
-<!--     <br>Visit osh.fyi for more</samp> -->
+    <br>On the lookout for imposters</samp>
   <br>
   <br>
   <br>
-  <br>
-  <img src="https://github.com/selimdoyranli/selimdoyranli/blob/master/preview.gif" width="350" />
+
+  <img src="https://github.com/NotSooShariff/NotSooShariff/assets/93514938/bfd103d5-6fdb-4525-b447-41b1ef5007e3" height="200" />
 </p>
 
 ------------
