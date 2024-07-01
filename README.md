@@ -20,7 +20,7 @@
 <br/>  
 
 
-<h3 align="center"> My Skill Set </h3> 
+<h3 align="center"> Frequently Used Tools </h3> 
 <table><tr><td valign="top" width="33%">
 
 
@@ -130,15 +130,10 @@
 
 <br/>  -->
 
+<br />
+
+----
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=NotSooShariff&&style=flat-square" align="center" />
 </div>  
   
-
-<br/>  
-
-
-<br />
-
-----
-<div align="center">x</div>
