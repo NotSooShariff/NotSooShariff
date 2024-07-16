@@ -2,7 +2,7 @@
   <br>
   <br>
   <br>
-  <samp>Hello there. I'm <a href="https://osh.fyi">Owais</a>.<br> I'm a Security Researcher from Bangalore.<br>
+  <samp>Hello there. I'm <a href="https://osh.fyi" target="_blank">Owais</a>.<br> I'm a Security Researcher from <a href="https://maps.app.goo.gl/qrNd4zNZnK3dmdv26" target="_blank">Bangalore, India.</a><br>
     <br>On the lookout for imposters</samp>
   <br>
   <br>
